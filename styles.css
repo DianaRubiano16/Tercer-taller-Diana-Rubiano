@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+}
+
+.converter {
+    margin: 20px;
+}
+
+input {
+    margin: 5px;
+    padding: 10px;
+    width: 200px;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+}
+
+#result {
+    margin-top: 10px;
+    font-size: 18px;
+}
